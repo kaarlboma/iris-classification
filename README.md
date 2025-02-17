@@ -6,6 +6,12 @@ Machine Learning analysis of various models on the classic Iris Dataset.
 
 In this Jupyter Notebook, I used exploratory data analysis to understand the Iris Dataset further before benchmarking the performance of various machine learning models. I wanted to see how different ML models stood up to one another in this classification test.
 
+## Libraries Used:
+- NumPy
+- Pandas
+- sklearn
+- Seaborn
+  
 ## Data Visualization
 
 - Pairplots:  To see the scatterplots of various features
